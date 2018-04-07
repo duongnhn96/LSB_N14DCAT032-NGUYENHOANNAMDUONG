@@ -1,0 +1,12 @@
+E:\CKTGT\MyLSB_Duong\MyLSB_Duong\bin\Debug\MyLSB_Duong.exe.config
+E:\CKTGT\MyLSB_Duong\MyLSB_Duong\bin\Debug\MyLSB_Duong.exe
+E:\CKTGT\MyLSB_Duong\MyLSB_Duong\bin\Debug\MyLSB_Duong.pdb
+E:\CKTGT\MyLSB_Duong\MyLSB_Duong\obj\Debug\MyLSB_Duong.csprojResolveAssemblyReference.cache
+E:\CKTGT\MyLSB_Duong\MyLSB_Duong\obj\Debug\MyLSB_Duong.Properties.Resources.resources
+E:\CKTGT\MyLSB_Duong\MyLSB_Duong\obj\Debug\MyLSB_Duong.csproj.GenerateResource.Cache
+E:\CKTGT\MyLSB_Duong\MyLSB_Duong\obj\Debug\MyLSB_Duong.exe
+E:\CKTGT\MyLSB_Duong\MyLSB_Duong\obj\Debug\MyLSB_Duong.pdb
+E:\CKTGT\MyLSB_Duong\MyLSB_Duong\obj\Debug\MyLSB_Duong.DuongLSBTool.resources
+E:\CKTGT\N14DCAT032-NGUYENHOANNAMDUONG\MyLSB_Duong\MyLSB_Duong\bin\Debug\MyLSB_Duong.exe.config
+E:\CKTGT\N14DCAT032-NGUYENHOANNAMDUONG\MyLSB_Duong\MyLSB_Duong\obj\Debug\MyLSB_Duong.exe
+E:\CKTGT\N14DCAT032-NGUYENHOANNAMDUONG\MyLSB_Duong\MyLSB_Duong\obj\Debug\MyLSB_Duong.pdb
